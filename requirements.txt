@@ -1,0 +1,4 @@
+openpyxl==3.1.5
+prompt_toolkit==3.0.50
+pyzmq==26.3.0
+tkcalendar==1.6.1
