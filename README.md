@@ -1,4 +1,4 @@
-# Veterinarian-Microservice-App
+# Veterinarian Microservice App
 This project is a microservice-based application developed during the Software Engineering I course. It aims to manage various aspects of a veterinarian clinic, including patient records, appointments, and veterinarian credentials.
 
 # Features
